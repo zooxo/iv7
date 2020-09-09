@@ -1,12 +1,13 @@
 # iv7
-A Powerful Programable RPN Calculator based on FORTH (Arduino and 7 segment display)
+## A Powerful Programable RPN Calculator based on FORTH (Arduino and 7 segment display)
 
   ____________________
 
-  Welcome to Ivee (IV7) - A Powerful Programable RPN Calculator based on FORTH
+  Welcome to Ivee 7 (IV7) - A Powerful Programable RPN Calculator based on FORTH
+  running with an Arduino Micro and a QYF-Development-Board (7 segment display).
   Version 1.0, (c) 2020 by deetee/zooxo
   This software is covered by the 3-clause BSD license.
-  See also: https://github.com/zooxo/iv7 and https://youtu.be
+ 
   ____________________
 
 
