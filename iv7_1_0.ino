@@ -1,18 +1,11 @@
 /*
-
-  ToDo:
-    clean code
-    int32_t statt int64_t
-    zusätzliche funktionen
-
   ____________________
 
   Welcome to Ivee (IV7) - A Powerful Programable RPN Calculator based on FORTH
   Version 1.0, (c) 2020 by deetee/zooxo
   This software is covered by the 3-clause BSD license.
-  See also: https://github.com/zooxo/iv7 and https://youtu.be
+  See also: https://youtu.be/uZYgRxXX5ro
   ____________________
-
 
   ____________________
 
